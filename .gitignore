@@ -1,0 +1,16 @@
+# Build folders
+/build
+/app/build
+
+# Local properties
+local.properties
+
+# IDE settings
+.idea/
+*.iml
+
+# Gradle cache
+.gradle/
+
+# Misc
+.DS_Store
