@@ -1,16 +1,19 @@
-# Build folders
-/build
-/app/build
+# Gradle files
+.gradle/
+build/
 
-# Local properties
+# Local configuration
 local.properties
 
-# IDE settings
+# Android Studio/IntelliJ
 .idea/
 *.iml
 
-# Gradle cache
-.gradle/
+# Generated files
+app/build/
+captures/
+output.json
 
-# Misc
+# OS-specific
 .DS_Store
+Thumbs.db
